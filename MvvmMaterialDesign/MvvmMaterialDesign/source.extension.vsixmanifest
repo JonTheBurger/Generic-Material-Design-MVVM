@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="MvvmMaterialDesignProjectTemplate-JP" Version="1.0" Language="en-US" Publisher="Jon Povirk" />
+    <DisplayName>MvvmMaterialDesign</DisplayName>
+    <Description xml:space="preserve">Project Template for a C#/WPF Project Using MVVM and Material Design</Description>
+    <MoreInfo>https://github.com/JonTheBurger/Generic-Material-Design-MVVM</MoreInfo>
+    <Icon>mvvmmd.png</Icon>
+    <PreviewImage>mvvmmd.png</PreviewImage>
+    <Tags>MVVM Material Design C# WPF</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\MVVM Material Design.zip" />
+  </Assets>
+</PackageManifest>
