@@ -1,4 +1,4 @@
-﻿Materail Design MVVM Template
+﻿Material Design MVVM Template
 ==============
 
 Notes:
