@@ -1,6 +1,6 @@
 ﻿// From High-Core's WPF Samples
 
-namespace Application.ViewModels {
+namespace $safeprojectname$.ViewModels {
     using System;
     using System.Windows.Input;
 

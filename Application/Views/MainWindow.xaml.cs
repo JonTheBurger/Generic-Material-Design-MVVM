@@ -1,4 +1,4 @@
-﻿namespace Application.Views {
+﻿namespace $safeprojectname$.Views {
     using System;
     using System.Windows;
     using ViewModels;

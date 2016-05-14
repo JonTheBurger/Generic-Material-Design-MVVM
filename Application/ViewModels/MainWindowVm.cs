@@ -1,4 +1,4 @@
-﻿namespace Application.ViewModels {
+﻿namespace $safeprojectname$.ViewModels {
     using System;
     using GalaSoft.MvvmLight;
 
